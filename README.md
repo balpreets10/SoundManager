@@ -16,4 +16,4 @@ A simple Sound Pooling system which can handle single shot, looping, play on awa
 
 ## Installation
 Just download and copy SoundSystem Folder to wherever you like in your project folder
-Another option is to copy the git url and download as package
+Another option which will be added soon is to copy the git url and download as package

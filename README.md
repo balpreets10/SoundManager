@@ -12,7 +12,7 @@ A simple Sound Pooling system which can handle single shot, looping, play on awa
 - Play Sounds from anywhere
 - Can be modified to use IOC
 - Extensible
-- Inspiration from @adammyhre
+- Inspiration from [@adammyhre](https://github.com/adammyhre)
 
 ## Installation
 Just download and copy SoundSystem Folder to wherever you like in your project folder

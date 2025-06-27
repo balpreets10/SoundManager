@@ -1,6 +1,6 @@
 # Simple Sound Pooling System
 
-(.github/assets/Sound-system.png)
+![Image](.github/assets/Sound-system.png)
 
 ## Project Built On
 **Unity 6000.0.48f1**
